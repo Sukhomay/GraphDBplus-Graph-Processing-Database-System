@@ -4,7 +4,7 @@ Graphity is a powerful Graph Processing Database System designed to provide a we
 
 ## Repository
 
-Find the source code on GitHub: [Graphity Repository](https://github.com/Sukhomay/G-R-A-P-H-I-T-Y-Graph-Processing-Database-System)
+Find the source code on GitHub: [GraphDBplus Repository]([https://github.com/Sukhomay/G-R-A-P-H-I-T-Y-Graph-Processing-Database-System](https://github.com/Sukhomay/GraphDBplus-Graph-Processing-Database-System))
 
 ## Introduction
 
